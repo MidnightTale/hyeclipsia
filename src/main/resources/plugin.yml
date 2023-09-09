@@ -1,0 +1,4 @@
+name: hyeclipsia
+version: '${version}'
+main: xyz.hynse.hyeclipsia.Hyeclipsia
+api-version: '1.20'
